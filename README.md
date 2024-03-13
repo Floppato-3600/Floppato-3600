@@ -1,8 +1,8 @@
 - 👋 Hola, Soy @Floppato-3600
 - 👀 Me gusta Trabajar, programar y ayudar
 - 🌱 Soy Buena onda (aveces rarito)
-- 💞️ Me gustan Ale
-- 📫 Si quieres chatear mi discord en Floppato3600
+- 💞️ Me gustas Ale
+- 📫 Si quieres chatear mi discord es Floppato3600
 - 😄 Pronombres: Ninguno
 - ⚡ Dato Gracioso: Me gustan los furros
 
