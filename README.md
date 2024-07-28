@@ -1,16 +1,16 @@
 # Presentación
-<h2>Hola soy Floppato360, en esta cuenta no veras mucho</h2>
+Hola soy Floppato360, en esta cuenta no veras mucho
 
 # Mis Gustos
-<h2>Me gustan los Animales, los furrys, y todo que
-tenga que ver con la ww2</h2>
+Me gustan los Animales, los furrys, y todo que
+tenga que ver con la ww2
 
 # Tu experiencia
-<h2>Soy un dibujante aprendiz, también soy programador
-Con cualquier lenguaje, etc</h2>
+Soy un dibujante aprendiz, también soy programador
+Con cualquier lenguaje, etc
 
 # Formas de contactarme
-<h2>Discord: floppato
+Discord: floppato
 Gmail: Floppato360@gmail.com
 Tengo mas cuentas en diferentes redes sociales
-solo busca Floppato360 y ya!</h2>
+solo busca Floppato360 y ya!
